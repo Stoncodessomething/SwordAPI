@@ -1,4 +1,4 @@
-# Restful API for Nortal Recruitment / SwordAPI
+# Restful API for listing swords
 
 SwordAPI is a simple RESTful API built in .Net. The main functionality of the API is to look at, edit, add and delete swords along with their other parameters into/from a Microsoft SQL database. Designed to work locally.
 
