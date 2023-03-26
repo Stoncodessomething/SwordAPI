@@ -24,8 +24,10 @@ Install the following:
 Do the following:
 1. Create your database
 2. Connect your database by replacing server=YOUR_DB with your own server's name in the "appsettings.json" file.
-3. Run
-4. You're all set!
+3. Migrate database
+4. Update database
+5. Run
+6. You're all set!
 
 Outputs:
 ![Getting Started](./Http.png)
